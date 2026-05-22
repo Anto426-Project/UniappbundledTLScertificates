@@ -1,0 +1,118 @@
+{
+  "generatedAt": "2026-05-22T19:23:15Z",
+  "hosts": [
+    "app.unimol.it",
+    "unimol.esse3.cineca.it",
+    "sync.faufas.it",
+    "trasporti.unimol.it",
+    "learn.unimol.it",
+    "api.github.com",
+    "raw.githubusercontent.com",
+    "uniaappauthorization.antobot.info"
+  ],
+  "certificateCount": 16,
+  "certificates": [
+    {
+      "sha256": "0955a4292bfadc88c9796d7a96ba450d7403e347eef7fb731db5bf1dc41158b6",
+      "hosts": [
+        "unimol.esse3.cineca.it"
+      ]
+    },
+    {
+      "sha256": "131fce7784016899a5a00203a9efc80f18ebbd75580717edc1553580930836ec",
+      "hosts": [
+        "raw.githubusercontent.com"
+      ]
+    },
+    {
+      "sha256": "1dfc1605fbad358d8bc844f76d15203fac9ca5c1a79fd4857ffaf2864fbebf96",
+      "hosts": [
+        "sync.faufas.it",
+        "uniaappauthorization.antobot.info",
+        "unimol.esse3.cineca.it"
+      ]
+    },
+    {
+      "sha256": "3f6398cdf356af81db22e3ecb066a13d75fd3f1870413cc764dab1b7a1b6a80f",
+      "hosts": [
+        "learn.unimol.it"
+      ]
+    },
+    {
+      "sha256": "4acd8dc6020a545a858943a553b5e0f3fc5b859aea1746650d69cf1210f956d8",
+      "hosts": [
+        "app.unimol.it",
+        "learn.unimol.it"
+      ]
+    },
+    {
+      "sha256": "4fede9c4ef53e3ddeec6fec3f31ce0cf918768312a82ea405ca55b88446db8c7",
+      "hosts": [
+        "api.github.com"
+      ]
+    },
+    {
+      "sha256": "5b678dc44095a52895b63b31f27227f4b36c3e347491bf2bfa691837a5fb8c79",
+      "hosts": [
+        "app.unimol.it",
+        "learn.unimol.it"
+      ]
+    },
+    {
+      "sha256": "6f2cfd04a014ae2bf142c9cbf6a008d5d51c244721d28955da1a6a140f926db5",
+      "hosts": [
+        "trasporti.unimol.it"
+      ]
+    },
+    {
+      "sha256": "76b27b80a58027dc3cf1da68dac17010ed93997d0b603e2fadbe85012493b5a7",
+      "hosts": [
+        "sync.faufas.it",
+        "uniaappauthorization.antobot.info",
+        "unimol.esse3.cineca.it"
+      ]
+    },
+    {
+      "sha256": "873f0ba80e3ac222656dfd04158cc15c2927d42d5d05f01dee4a47eb43a916df",
+      "hosts": [
+        "api.github.com"
+      ]
+    },
+    {
+      "sha256": "ba1ea6e72c7fdf8c7193aea035ce03f1fb7680491ec9066520cc695fa651a37c",
+      "hosts": [
+        "uniaappauthorization.antobot.info"
+      ]
+    },
+    {
+      "sha256": "bc0e00adc14bfe0c1367a17d00b170acec10fd2b908fa54bc846a34f908b5bb6",
+      "hosts": [
+        "app.unimol.it"
+      ]
+    },
+    {
+      "sha256": "ca0484b605cd8694260753d16eac9d8cdb50d527e0e8058f43910048c8f34b0c",
+      "hosts": [
+        "sync.faufas.it"
+      ]
+    },
+    {
+      "sha256": "d3b128216a843f8ef1321501f5df52a5df52939ee2c19297712cd3de4d419354",
+      "hosts": [
+        "trasporti.unimol.it"
+      ]
+    },
+    {
+      "sha256": "ea69bc711cb9d45698d2fdaa4854d7dc086acd3a9c350164909b688ac7c0631f",
+      "hosts": [
+        "raw.githubusercontent.com"
+      ]
+    },
+    {
+      "sha256": "ea6b89ed6907a209ff9188676fb164e7aced894b8996dfbe5ce5bbcc22de4ddd",
+      "hosts": [
+        "api.github.com"
+      ]
+    }
+  ]
+}

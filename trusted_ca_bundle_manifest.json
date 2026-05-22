@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "bundlePath": "trusted_ca_bundle.pem",
+  "metadataPath": "trusted_ca_bundle_meta.json",
+  "bundleSha256": "7d2be753e06d0df0debbb3980cdc9d8b366b27ae4dbd8e65f66ad330576bfc95",
+  "metadataSha256": "f230443751dced2cedab49cf339df5ef501fff53a2082ee200e1fafda2d9934e",
+  "certificateCount": 16,
+  "generatedAt": "2026-05-22T19:23:15Z",
+  "expiresAt": "2026-06-05T19:23:15Z",
+  "keyId": "a2a34fe4734b9c79",
+  "signatureAlgorithm": "SHA384withECDSA",
+  "hosts": [
+    "app.unimol.it",
+    "unimol.esse3.cineca.it",
+    "sync.faufas.it",
+    "trasporti.unimol.it",
+    "learn.unimol.it",
+    "api.github.com",
+    "raw.githubusercontent.com",
+    "uniaappauthorization.antobot.info"
+  ],
+  "signature": "MGUCMQCwkVl4MF5/YbaOE79cmbkKvRA8UgdKoxfl0LGBM6prj7JUIjlk9D8ErSuSADgd7YgCMET9k8Oyx17kiXylC3tspkIOixkH4VYQjg2RJIMhQ6+Z7CAx7QQ9rcIaVF3Ab0/QDQ=="
+}
