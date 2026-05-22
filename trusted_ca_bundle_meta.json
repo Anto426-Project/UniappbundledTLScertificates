@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T19:23:15Z",
+  "generatedAt": "2026-05-22T22:23:10Z",
   "hosts": [
     "app.unimol.it",
     "unimol.esse3.cineca.it",
@@ -7,10 +7,17 @@
     "trasporti.unimol.it",
     "learn.unimol.it",
     "api.github.com",
+    "github.com",
     "raw.githubusercontent.com",
+    "avatars.githubusercontent.com",
+    "objects.githubusercontent.com",
+    "github-releases.githubusercontent.com",
+    "codeload.github.com",
+    "tile.openstreetmap.org",
+    "router.project-osrm.org",
     "uniaappauthorization.antobot.info"
   ],
-  "certificateCount": 16,
+  "certificateCount": 21,
   "certificates": [
     {
       "sha256": "0955a4292bfadc88c9796d7a96ba450d7403e347eef7fb731db5bf1dc41158b6",
@@ -21,6 +28,9 @@
     {
       "sha256": "131fce7784016899a5a00203a9efc80f18ebbd75580717edc1553580930836ec",
       "hosts": [
+        "avatars.githubusercontent.com",
+        "github-releases.githubusercontent.com",
+        "objects.githubusercontent.com",
         "raw.githubusercontent.com"
       ]
     },
@@ -30,6 +40,12 @@
         "sync.faufas.it",
         "uniaappauthorization.antobot.info",
         "unimol.esse3.cineca.it"
+      ]
+    },
+    {
+      "sha256": "2d8eb35214e2c8b02bb05015d2847eede86b7922c7dd3507c5672dc7e484e4b9",
+      "hosts": [
+        "tile.openstreetmap.org"
       ]
     },
     {
@@ -46,9 +62,16 @@
       ]
     },
     {
+      "sha256": "4c6b0b3bf6de70483666ed4830bd16fe4d02893e84b0af065ba3f19849a56771",
+      "hosts": [
+        "router.project-osrm.org"
+      ]
+    },
+    {
       "sha256": "4fede9c4ef53e3ddeec6fec3f31ce0cf918768312a82ea405ca55b88446db8c7",
       "hosts": [
-        "api.github.com"
+        "api.github.com",
+        "codeload.github.com"
       ]
     },
     {
@@ -75,7 +98,21 @@
     {
       "sha256": "873f0ba80e3ac222656dfd04158cc15c2927d42d5d05f01dee4a47eb43a916df",
       "hosts": [
-        "api.github.com"
+        "api.github.com",
+        "codeload.github.com",
+        "github.com"
+      ]
+    },
+    {
+      "sha256": "a7b81034cd439551c50a29b54355254a84942a0a990c1a9e12856c855b64b65f",
+      "hosts": [
+        "github.com"
+      ]
+    },
+    {
+      "sha256": "aeb1fd7410e83bc96f5da3c6a7c2c1bb836d1fa5cb86e708515890e428a8770b",
+      "hosts": [
+        "router.project-osrm.org"
       ]
     },
     {
@@ -105,13 +142,24 @@
     {
       "sha256": "ea69bc711cb9d45698d2fdaa4854d7dc086acd3a9c350164909b688ac7c0631f",
       "hosts": [
+        "avatars.githubusercontent.com",
+        "github-releases.githubusercontent.com",
+        "objects.githubusercontent.com",
         "raw.githubusercontent.com"
       ]
     },
     {
       "sha256": "ea6b89ed6907a209ff9188676fb164e7aced894b8996dfbe5ce5bbcc22de4ddd",
       "hosts": [
-        "api.github.com"
+        "api.github.com",
+        "codeload.github.com",
+        "github.com"
+      ]
+    },
+    {
+      "sha256": "f5165fc624453361e3a131c6ad90893a8de40158921a94e8a4b445398eedf6e0",
+      "hosts": [
+        "tile.openstreetmap.org"
       ]
     }
   ]
