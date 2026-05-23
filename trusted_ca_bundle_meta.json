@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T22:23:10Z",
+  "generatedAt": "2026-05-23T15:39:46Z",
   "hosts": [
     "app.unimol.it",
     "unimol.esse3.cineca.it",
@@ -19,12 +19,6 @@
   ],
   "certificateCount": 21,
   "certificates": [
-    {
-      "sha256": "0955a4292bfadc88c9796d7a96ba450d7403e347eef7fb731db5bf1dc41158b6",
-      "hosts": [
-        "unimol.esse3.cineca.it"
-      ]
-    },
     {
       "sha256": "131fce7784016899a5a00203a9efc80f18ebbd75580717edc1553580930836ec",
       "hosts": [
@@ -72,6 +66,12 @@
       "hosts": [
         "api.github.com",
         "codeload.github.com"
+      ]
+    },
+    {
+      "sha256": "5387b654baa362f2d78e8379dde692319a019ab0df365165650d7172a1bfd0de",
+      "hosts": [
+        "unimol.esse3.cineca.it"
       ]
     },
     {
