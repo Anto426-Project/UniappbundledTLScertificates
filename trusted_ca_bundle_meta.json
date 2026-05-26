@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T15:39:46Z",
+  "generatedAt": "2026-05-26T04:33:43Z",
   "hosts": [
     "app.unimol.it",
     "unimol.esse3.cineca.it",
@@ -19,6 +19,12 @@
   ],
   "certificateCount": 21,
   "certificates": [
+    {
+      "sha256": "04d845bdecb153cd8143594bbe43a295f39e37a469b333b245d5ac046d8163e5",
+      "hosts": [
+        "sync.faufas.it"
+      ]
+    },
     {
       "sha256": "131fce7784016899a5a00203a9efc80f18ebbd75580717edc1553580930836ec",
       "hosts": [
@@ -125,12 +131,6 @@
       "sha256": "bc0e00adc14bfe0c1367a17d00b170acec10fd2b908fa54bc846a34f908b5bb6",
       "hosts": [
         "app.unimol.it"
-      ]
-    },
-    {
-      "sha256": "ca0484b605cd8694260753d16eac9d8cdb50d527e0e8058f43910048c8f34b0c",
-      "hosts": [
-        "sync.faufas.it"
       ]
     },
     {
