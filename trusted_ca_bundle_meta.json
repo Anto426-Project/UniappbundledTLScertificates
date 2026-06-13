@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T04:33:43Z",
+  "generatedAt": "2026-06-13T04:49:56Z",
   "hosts": [
     "app.unimol.it",
     "unimol.esse3.cineca.it",
@@ -23,6 +23,12 @@
       "sha256": "04d845bdecb153cd8143594bbe43a295f39e37a469b333b245d5ac046d8163e5",
       "hosts": [
         "sync.faufas.it"
+      ]
+    },
+    {
+      "sha256": "0b93560951c8abd00f68e33051d3a62dfadb40b1d73468971833761b8b77a273",
+      "hosts": [
+        "uniaappauthorization.antobot.info"
       ]
     },
     {
@@ -119,12 +125,6 @@
       "sha256": "aeb1fd7410e83bc96f5da3c6a7c2c1bb836d1fa5cb86e708515890e428a8770b",
       "hosts": [
         "router.project-osrm.org"
-      ]
-    },
-    {
-      "sha256": "ba1ea6e72c7fdf8c7193aea035ce03f1fb7680491ec9066520cc695fa651a37c",
-      "hosts": [
-        "uniaappauthorization.antobot.info"
       ]
     },
     {
