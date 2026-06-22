@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T04:49:56Z",
+  "generatedAt": "2026-06-22T05:29:44Z",
   "hosts": [
     "app.unimol.it",
     "unimol.esse3.cineca.it",
@@ -17,7 +17,7 @@
     "router.project-osrm.org",
     "uniaappauthorization.antobot.info"
   ],
-  "certificateCount": 21,
+  "certificateCount": 22,
   "certificates": [
     {
       "sha256": "04d845bdecb153cd8143594bbe43a295f39e37a469b333b245d5ac046d8163e5",
@@ -26,18 +26,18 @@
       ]
     },
     {
-      "sha256": "0b93560951c8abd00f68e33051d3a62dfadb40b1d73468971833761b8b77a273",
-      "hosts": [
-        "uniaappauthorization.antobot.info"
-      ]
-    },
-    {
-      "sha256": "131fce7784016899a5a00203a9efc80f18ebbd75580717edc1553580930836ec",
+      "sha256": "072639d0b140d5bffae16ad9c3f6cc6086040621f51ee61a6d46a8915c07cf76",
       "hosts": [
         "avatars.githubusercontent.com",
         "github-releases.githubusercontent.com",
         "objects.githubusercontent.com",
         "raw.githubusercontent.com"
+      ]
+    },
+    {
+      "sha256": "0b93560951c8abd00f68e33051d3a62dfadb40b1d73468971833761b8b77a273",
+      "hosts": [
+        "uniaappauthorization.antobot.info"
       ]
     },
     {
@@ -49,9 +49,27 @@
       ]
     },
     {
+      "sha256": "238b85a0099c65b970477d5724f1a1d475ce5058cffe4efa8733899bdb863c47",
+      "hosts": [
+        "avatars.githubusercontent.com",
+        "github-releases.githubusercontent.com",
+        "objects.githubusercontent.com",
+        "raw.githubusercontent.com"
+      ]
+    },
+    {
       "sha256": "2d8eb35214e2c8b02bb05015d2847eede86b7922c7dd3507c5672dc7e484e4b9",
       "hosts": [
         "tile.openstreetmap.org"
+      ]
+    },
+    {
+      "sha256": "32491b26bfaf7bfb556029ef32299ac4374db34d09eecd4ffd01f21b2c5a8567",
+      "hosts": [
+        "avatars.githubusercontent.com",
+        "github-releases.githubusercontent.com",
+        "objects.githubusercontent.com",
+        "raw.githubusercontent.com"
       ]
     },
     {
@@ -137,15 +155,6 @@
       "sha256": "d3b128216a843f8ef1321501f5df52a5df52939ee2c19297712cd3de4d419354",
       "hosts": [
         "trasporti.unimol.it"
-      ]
-    },
-    {
-      "sha256": "ea69bc711cb9d45698d2fdaa4854d7dc086acd3a9c350164909b688ac7c0631f",
-      "hosts": [
-        "avatars.githubusercontent.com",
-        "github-releases.githubusercontent.com",
-        "objects.githubusercontent.com",
-        "raw.githubusercontent.com"
       ]
     },
     {
