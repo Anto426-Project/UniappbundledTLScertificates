@@ -6,7 +6,7 @@
   "metadataSha256": "52387e22639607e072e5775e05c172d3c81288e80558c79e71f83ff14dd473b4",
   "certificateCount": 22,
   "generatedAt": "2026-06-22T05:29:44Z",
-  "expiresAt": "2026-07-09T04:33:00Z",
+  "expiresAt": "2026-07-10T04:38:35Z",
   "keyId": "a2a34fe4734b9c79",
   "signatureAlgorithm": "SHA384withECDSA",
   "hosts": [
@@ -26,5 +26,5 @@
     "router.project-osrm.org",
     "uniaappauthorization.antobot.info"
   ],
-  "signature": "MGUCMQDuRfSQYdJ3OxTiyxca1LFI3FnPoJ5jc8xhzBFKtLHzHaQXhtuXUEQfiQhQHn9VslkCMAeu+42kAHGEWLqEO3ko/bNjP5eKUO6QcGwvrer0dVzkH4cOhFhaxSsDNolAWAcryA=="
+  "signature": "MGUCMQDJJKAbbGwmXF6iqnmExP3F5Uul4/0IpD0F9FsgpAzSGnuo5kR4Bqut7ZsOOqYAQf0CMHPKqFCPp9G0v9CqCXPYAAfIS+5ink+rBhCwab6joIP0HMi9Vg2ogSVBz/kCX2rETQ=="
 }
