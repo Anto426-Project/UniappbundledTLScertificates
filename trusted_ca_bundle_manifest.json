@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "bundlePath": "trusted_ca_bundle.pem",
   "metadataPath": "trusted_ca_bundle_meta.json",
-  "bundleSha256": "659accf7208ab0b2e6746a4faa4031a161660617b81360096bbea725b32f6157",
-  "metadataSha256": "52387e22639607e072e5775e05c172d3c81288e80558c79e71f83ff14dd473b4",
+  "bundleSha256": "4b24b1fe70ad10dce9f9ccf05d61c18980f20dec7536050452a1f20cbed42b10",
+  "metadataSha256": "b64559f2daad13b39f502fa734c43635353528dfad7f62c0f6a2d2f196df1794",
   "certificateCount": 22,
-  "generatedAt": "2026-06-22T05:29:44Z",
-  "expiresAt": "2026-07-15T04:53:07Z",
+  "generatedAt": "2026-07-02T23:18:07Z",
+  "expiresAt": "2026-07-16T23:18:07Z",
   "keyId": "a2a34fe4734b9c79",
   "signatureAlgorithm": "SHA384withECDSA",
   "hosts": [
@@ -26,5 +26,5 @@
     "router.project-osrm.org",
     "uniaappauthorization.antobot.info"
   ],
-  "signature": "MGUCMQCKixW7Lp/FAaNpdjeLUgbFdriVjTa44c3NovphyuhNlwu9PezEEGNJWpj/fTqw7KgCMH0KS7FBssPDMiGRWGBVGdm5JTFBqMkNJpvktpZXWs2a091ufVpD5ir36Y7efOFwJw=="
+  "signature": "MGUCMQDiT5VNvVc5dGJzTGv+iP5JV+utR2J5v5WQdzOYzjh8jG9fje6NXKi/KrQx27Ia1MACMCAQlU85J6FwK793QyfQJxGW7ca39Yq0Dr87qQYpdE22QDdk5t1qD3r3tDf64uCfUw=="
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T05:29:44Z",
+  "generatedAt": "2026-07-02T23:18:07Z",
   "hosts": [
     "app.unimol.it",
     "unimol.esse3.cineca.it",
@@ -92,13 +92,6 @@
       ]
     },
     {
-      "sha256": "4fede9c4ef53e3ddeec6fec3f31ce0cf918768312a82ea405ca55b88446db8c7",
-      "hosts": [
-        "api.github.com",
-        "codeload.github.com"
-      ]
-    },
-    {
       "sha256": "5387b654baa362f2d78e8379dde692319a019ab0df365165650d7172a1bfd0de",
       "hosts": [
         "unimol.esse3.cineca.it"
@@ -143,6 +136,13 @@
       "sha256": "aeb1fd7410e83bc96f5da3c6a7c2c1bb836d1fa5cb86e708515890e428a8770b",
       "hosts": [
         "router.project-osrm.org"
+      ]
+    },
+    {
+      "sha256": "b42b6ae85214f31f3ef5d48e1180a46fb9c0d7d8fe8fd202256650cd52e059e8",
+      "hosts": [
+        "api.github.com",
+        "codeload.github.com"
       ]
     },
     {
