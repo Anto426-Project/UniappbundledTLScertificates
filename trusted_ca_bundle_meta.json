@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T04:06:59Z",
+  "generatedAt": "2026-07-04T04:00:22Z",
   "hosts": [
     "app.unimol.it",
     "unimol.esse3.cineca.it",
@@ -17,7 +17,7 @@
     "router.project-osrm.org",
     "uniaappauthorization.antobot.info"
   ],
-  "certificateCount": 21,
+  "certificateCount": 22,
   "certificates": [
     {
       "sha256": "04d845bdecb153cd8143594bbe43a295f39e37a469b333b245d5ac046d8163e5",
@@ -38,6 +38,12 @@
       "sha256": "0b93560951c8abd00f68e33051d3a62dfadb40b1d73468971833761b8b77a273",
       "hosts": [
         "uniaappauthorization.antobot.info"
+      ]
+    },
+    {
+      "sha256": "17f8fd2e3fd2c113fcb9772d8a4babb8522dd06dd0794915a4ff98b1b6863a00",
+      "hosts": [
+        "github.com"
       ]
     },
     {
@@ -136,8 +142,7 @@
       "sha256": "b42b6ae85214f31f3ef5d48e1180a46fb9c0d7d8fe8fd202256650cd52e059e8",
       "hosts": [
         "api.github.com",
-        "codeload.github.com",
-        "github.com"
+        "codeload.github.com"
       ]
     },
     {
